@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: rgb(173, 109, 120);
   }
 
 .center {
@@ -13,5 +13,10 @@ body {
     margin-right: auto;
     width: 40%;
   }
+
+   p {
+    text-align: center;
+  }
+
 
   
