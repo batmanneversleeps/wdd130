@@ -9,8 +9,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    justify-content: center;
-    align-content: center;
+    justify-items: center;
+    align-items: center;
+    
   }
   .content2 {
     width: 80%;
@@ -19,6 +20,8 @@
     display: grid;
     grid-template-columns: 150px 150px;
     grid-template-rows: 150px 150px;
+    justify-content: center;
+    align-content: center;
     
   }
   .content3 {
@@ -28,6 +31,10 @@
     display: grid;
     grid-template-columns: 150px 150px;
     grid-template-rows: 150px 150px;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
   }
   
   .red {
